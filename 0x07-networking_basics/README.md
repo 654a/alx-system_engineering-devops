@@ -1,5 +1,5 @@
 
-0x07. Networking basics #0
+rking basics #0
 DevOps
 Network
  By: Sylvain Kalache
